@@ -1,4 +1,5 @@
 #!/bin/sh
+yum install screen -y
 yum install epel-release -y
 yum install nload -y
 yum install screen -y
